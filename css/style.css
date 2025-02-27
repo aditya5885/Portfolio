@@ -8811,7 +8811,9 @@ h1, h2, h3, h4, h5,
   .ftco-about .counter-wrap .text p span.number {
     font-weight: 600;
     color: #ffbd39; }
-
+.mailTop a{
+  color: #ffbd39 !important;
+}
 .resume-wrap {
   width: 100%;
   margin-bottom: 30px;
